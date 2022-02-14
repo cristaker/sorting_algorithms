@@ -1,7 +1,8 @@
 #include "sort.h"
+
 /**
  * bubble_sort - function that sorts an array of integers
- * @array: pointer 
+ * @array: pointer
  * @size: struct
  * Return: no return
  * **/
